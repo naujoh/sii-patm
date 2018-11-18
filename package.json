@@ -1,0 +1,28 @@
+{
+  "name": "siipatm-api",
+  "version": "1.0.0",
+  "description": "API for final project (PATM)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Hernandez Ojeda (juho)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.4",
+    "change-case": "^2.3.0",
+    "async": "^1.2.1",
+    "body-parser": "^1.13.1",
+    "dotenv": "^1.2.0",
+    "morgan": "^1.6.0",
+    "nconf": "^0.7.1",
+    "require-dir": "^0.3.0",
+    "underscore": "^1.8.3",
+    "winston": "^1.0.0",
+    "pg": "^5.2.1",
+    "basic-auth": "^2.0.1",
+    "https": "^1.0.0",
+    "fs": "0.0.1-security",
+    "http-errors": "~1.6.2"
+  }
+}
